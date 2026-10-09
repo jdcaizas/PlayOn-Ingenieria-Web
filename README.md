@@ -3,6 +3,7 @@ PlayOn Vibra
 PlayOn Vibra es una página web para descubrir música. La idea es que los usuarios puedan buscar canciones, artistas y álbumes, guardar sus canciones favoritas, armar playlists y compartir lo que piensan con reseñas y calificaciones.
 
 Este repositorio tiene la primera parte del proyecto: un login y un CRUD de canciones que solo se puede usar si el usuario inició sesión.
+Video en YouTube: https://youtu.be/bcT8FWSHecc
 
 Qué hace hasta ahora
 Login con usuario y contraseña.
